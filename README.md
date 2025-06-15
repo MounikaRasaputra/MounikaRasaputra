@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MounikaRasaputra
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning cpp
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on python related projects
 - 📫 How to reach me rasaputramounika@gmail.com
 
